@@ -1,0 +1,45 @@
+.top {
+    margin-bottom: 16px !important;
+
+}
+
+h2 {
+    /* color: white !important; */
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    ;
+    font-weight: 700 !important;
+    font-size: 40px !important;
+}
+.Portfolio{
+    margin-top: 100px;
+}
+
+.lineLe{
+    height: 4px;
+    width: 80px;
+}
+
+.captionLayer {
+    transition: all 0.5s;
+}
+
+.captionLayer:hover {
+    background-color: #1abc9ce6;
+    cursor: pointer;
+    
+}
+
+.top{
+    color: #2C3E50;
+}
+.captionLayer:hover i {
+    display: block !important;
+}
+
+.innerDiv {
+    background-image: url('../../img/port1.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 400px;
+}

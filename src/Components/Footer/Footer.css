@@ -1,0 +1,21 @@
+.footer {
+    background-color: #2C3E50;
+    color: white;
+    padding: 30px 0 0 0;
+}
+ ul{
+    list-style: none;   
+}
+i {
+    border: 2px solid white;
+    border-radius: 100%;
+    padding: 10px;
+}
+.fotter-bottom{
+    padding: 10px;
+    background-color: #1A252F;
+}
+.fotter-bottom p{
+padding-top: 10px;
+margin-bottom: 16px;
+}
